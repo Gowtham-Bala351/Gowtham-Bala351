@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Bala Gowtham Yadav
-- 👀 I’m interested to start my career in Software Development 
-- 🌱 I’m trained in Java Full Stack Development
 - 📫 Reach me ...gowthamyadava1@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Having Good sense of Humour
